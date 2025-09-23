@@ -110,7 +110,6 @@ Nous pouvons mettre à jour cette politique de confidentialité. Les modificatio
 ## 10. Suppression des Données
 
 Vous pouvez demander la suppression de vos données en :
-- Utilisant la commande `/gdpr-delete` du Bot
 - Contactant notre équipe de support
 - Retirant le Bot de votre serveur (suppression automatique après 30 jours)
 
@@ -134,5 +133,6 @@ Cette politique de confidentialité est conçue pour être conforme à :
 - Lois françaises sur la protection des données
 
 ---
+
 
 *En utilisant le Bot, vous consentez à la collecte et à l'utilisation de vos informations comme décrit dans cette politique de confidentialité.*
